@@ -1,0 +1,17 @@
+{
+  "name": "printer-mcp",
+  "owner": {
+    "name": "Jake"
+  },
+  "metadata": {
+    "description": "Office printer plugin for Claude Code and Cowork"
+  },
+  "plugins": [
+    {
+      "name": "printer",
+      "source": ".",
+      "description": "Send documents directly to your printer with auto cover sheets. Dynamically discovers printer capabilities via CUPS.",
+      "version": "2.0.0"
+    }
+  ]
+}
