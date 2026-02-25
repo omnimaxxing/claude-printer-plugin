@@ -9,7 +9,7 @@
   "plugins": [
     {
       "name": "printer",
-      "source": ".",
+      "source": "./",
       "description": "Send documents directly to your printer with auto cover sheets. Dynamically discovers printer capabilities via CUPS.",
       "version": "2.0.0"
     }
